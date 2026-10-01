@@ -1,0 +1,6 @@
+{
+  "name": "TNPSC VidyaLens - Video Syllabus Concept Analyzer",
+  "description": "Upload educational and real-world videos to analyze visual scenes, detect syllabus-linked objects and events, map them to TNPSC subjects and units, and generate instant exam MCQs.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
